@@ -1,0 +1,137 @@
+body{
+  margin:0px;
+  padding:0px;
+  box-sizing: border-box;
+}
+
+.Header{
+  display: flex;
+  justify-content:space-between;
+}
+.myntralogo{
+  position: relative;
+  left:60px;
+  top:20px;
+  width:60px;
+}
+.searchbar{
+  position: relative;
+  height:20px;
+  width:300px;
+  top:30px;
+  right: 120px;
+}
+.options{
+  position: relative;
+  gap: 40px;
+  padding: 30px;
+  right:30px;
+}
+.bodywala{
+ position: relative;
+ top:30px;
+}
+.button{
+  margin-right: 10px;
+  height:30px;
+  border: none;
+  background-color: white;
+  font-size: 20px;
+}
+.button1{
+  margin-right: 10px;
+  height:30px;
+  border: none;
+  background-color: white;
+  font-size: 20px;
+}
+.button2{
+  margin-right: 10px;
+  height:30px;
+  border: none;
+  background-color: white;
+  font-size: 20px;
+}.button3{
+  margin-right: 10px;
+  height:30px;
+  border: none;
+  background-color: white;
+  font-size: 20px;
+}.button4{
+  margin-right: 10px;
+  height:30px;
+  border: none;
+  background-color: white;
+  font-size: 20px;
+}.button5{
+  margin-right: 10px;
+  height:30px;
+  border: none;
+  background-color: white;
+  font-size: 20px;
+}.button6{
+  margin-right: 10px;
+  height:30px;
+  border: none;
+  background-color: white;
+  font-size: 20px;
+}
+.button7{
+  margin-right: 10px;
+  height:30px;
+  border: none;
+  background-color: white;
+  font-size: 20px;
+}
+.profile{
+  position: relative;
+  gap: 40px;
+  padding: 30px;
+  right:50px;
+}
+.but1{
+  position: relative;
+  background-color: white;
+  height: 30px;
+  border: none;
+  font-size: 20px;
+}
+.but2{
+  position: relative;
+  background-color: white;
+  height: 30px;
+  border: none;
+  font-size: 20px;
+}
+.but3{
+  position: relative;
+  background-color: white;
+  height: 30px;
+  border: none;
+  font-size: 20px;
+}
+.middle{
+  background-color: rgb(246, 246, 240);
+  padding-left: 20px;
+  padding-right:20px;
+  padding-top:50px;
+  justify-content: center;
+}
+.card{
+  background-color: rgb(40,44,63);
+  color:white;
+}
+.footer{
+  position: relative;
+  right:10px;
+}
+.sortedarray{
+  border-radius:10px 10px 10px 10px;
+  font-size:15px;
+  margin-left:50px;
+}
+.lessthan500{
+  border-radius:10px 10px 10px 10px;
+  font-size:15px;
+  margin-left:20px;
+}
